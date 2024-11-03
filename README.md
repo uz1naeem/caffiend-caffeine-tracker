@@ -44,6 +44,6 @@ Contributions from the community are welcome! If you’d like to help improve Ca
 
 5. **Push and Create a Pull Request**:  Push your branch and submit a pull request on GitHub.
 
-### Conclusion
+## Conclusion
 
 Caffiend not only fosters a community of coffee enthusiasts but also empowers users to take control of their caffeine consumption and spending. By effectively leveraging modern technologies like Firebase for data management, it offers a practical solution for visualizing habits and costs. This project serves as an engaging exploration into the world of caffeine tracking while providing a valuable tool for those looking to make informed decisions about their coffee intake.
